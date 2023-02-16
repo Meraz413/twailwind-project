@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="col-span-full md:col-span-6 lg:col-span-2 px-4 py-2">
-				<p class="text-xl font-medium pb-4">Follow Us</p>
+				<p class=" font-medium pb-4">Follow Us</p>
 				<ul>
 					<li class="flex items-center gap-1.5 py-1.5">
 						<div class="flex items-center justify-center px-2 py-1 rounded-full shadow-sm transition-all duration-300 h-7 w-7 bg-blue-700">
